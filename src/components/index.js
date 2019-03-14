@@ -16,9 +16,7 @@ if (typeof window !== 'undefined' && window.Vue) {
   install(window.Vue)
 }
 
-const API = {
+export default {
   install,
   ...components
 }
-
-export default API
