@@ -1,4 +1,4 @@
-# keep-ui
+# vue-component-init
 
 > 这是一个基于`vue-cli3`构建的一个`vue.js`UI组件库的基础项目。
 
