@@ -1,9 +1,9 @@
 {
   "name": "yvshare",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
-  "description": "ui component library",
-  "keywords": ["ui", "keep", "vue"],
+  "description": "ui component library build on vue",
+  "keywords": ["component", "vue"],
   "main": "lib/yvshare.umd.min.js",
   "author": "582718643@qq.com",
   "license": "ISC",
