@@ -1,0 +1,11 @@
+# folder
+node_modules/
+packages/
+public/
+src/
+
+# files
+babel.config.js
+vue.config.js
+.eslintignore
+.gitignore

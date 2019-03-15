@@ -27,5 +27,12 @@ npm run test
 npm run lint
 ```
 
+### Publish to npmjs.com
+```
+npm run lib
+
+npm publish
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
