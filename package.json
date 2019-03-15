@@ -1,16 +1,17 @@
 {
-  "name": "keep-ui",
-  "version": "0.0.1",
+  "name": "yvshare",
+  "version": "0.1.0",
   "private": false,
   "description": "ui component library",
   "keywords": ["ui", "keep", "vue"],
-  "main": "lib/keep-ui.umd.min.js",
+  "main": "lib/yvshare.umd.min.js",
   "author": "582718643@qq.com",
+  "license": "ISC",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name keep-ui --dest lib packages/index.js"
+    "lib": "vue-cli-service build --target lib --name yvshare --dest lib packages/index.js"
   },
   "dependencies": {
     "vue": "^2.6.6"
